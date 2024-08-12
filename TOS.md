@@ -1,6 +1,7 @@
 Terms of Service (TOS)
 
 Last Updated: August 12th, 2024
+
  Acceptance of Terms
 
 By using the Misfit Match Making Discord bot ("Bot"), you agree to comply with and be bound by the following terms and conditions ("Terms"). If you do not agree to these Terms, please do not use the Bot.
